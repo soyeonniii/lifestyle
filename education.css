@@ -206,7 +206,7 @@ button.video-item.video1, button.video-item.video2, button.video-item.video3, bu
         width: 365px;
     }
 
-    .video-item {
+    button.video-item.video1, button.video-item.video2, button.video-item.video3, button.video-item.video4 {
         width: 365px;
     }
 
