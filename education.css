@@ -211,9 +211,9 @@ button.video-item.video1, button.video-item.video2, button.video-item.video3, bu
     }
 
     .video-thumbnail {
-        height: 100px;
-        width: 100px;
-        margin-right: 21px;
+        height: 80px;
+        width: 80px;
+        margin-right: 11px;
         border-radius: 10px;
     }
 }
