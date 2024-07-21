@@ -203,10 +203,10 @@ button.video-item.video1, button.video-item.video2, button.video-item.video3, bu
     }
 
     button.banner {
-        width: 100%;
+        width: 365px;
     }
 
     .video-item {
-        width: 100%;
+        width: 365px;
     }
 }
