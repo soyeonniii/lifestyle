@@ -216,4 +216,12 @@ button.video-item.video1, button.video-item.video2, button.video-item.video3, bu
         margin-right: 11px;
         border-radius: 10px;
     }
+
+    .video-info h2 {
+        font-size: 15px;
+    }
+    
+    .video-info p {
+        font-size: 11px;
+    }
 }
